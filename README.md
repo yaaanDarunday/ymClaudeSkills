@@ -4,7 +4,7 @@ Claude Code skills for building award-level GSAP motion websites.
 
 | Skill | Use it when |
 |---|---|
-| [`building-gsap-motion-sites`](./building-gsap-motion-sites/SKILL.md) | Building or restyling a portfolio, studio, agency or product site that should feel award-level: ScrollTrigger choreography, SplitText, Lenis, pins, preloaders, drag canvases, Flip transitions. It includes a browser-verified starter template, a pattern catalogue and a 7-site measured study of gsap.com/showcase. |
+| [`building-gsap-motion-sites`](./building-gsap-motion-sites/SKILL.md) | Building or restyling a portfolio, studio, agency or product site that should feel award-level: ScrollTrigger choreography, SplitText, Lenis, pins, preloaders, odometer counters, custom cursors. It includes a browser-verified starter template, a pattern catalogue and a 7-site measured study of gsap.com/showcase. |
 | [`building-gsap-sites-from-fresh-references`](./building-gsap-sites-from-fresh-references/SKILL.md) | The new site must look different from earlier builds. Each run studies showcase sites nobody has studied yet, using Playwright scripts that measure type, colour, eases and scroll. A ledger records past sites and builds so directions don't repeat. Uses `building-gsap-motion-sites` for the engineering. |
 
 ## Install
